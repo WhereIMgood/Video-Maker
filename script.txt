@@ -1,2 +1,1 @@
-Rust is like the "bad boy" of programming languages - tough, reliable, and not afraid to throw down when it comes to memory safety and performance. It's as if it took self-improvement lessons from your favorite gurus. The language was designed with a laser focus on preventing those pesky bugs like null pointers and data races, making it a solid choice for systems programming and building high-performance applications.
-Instead of using python like a boomer use rust instead, its faster and it has many features, so hurry up and choose rust... dumbass !!!
+Enter your video script here.
